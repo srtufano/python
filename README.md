@@ -1,2 +1,2 @@
 # python
-Diversos programas em Python
+Meus estudos em Python
